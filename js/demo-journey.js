@@ -1,4 +1,4 @@
-/* Template Factory - ALPs Electric live demo journey.
+/* Template Factory - Alps Electric live demo journey.
    Client-side simulate only. No real AI, SMS, or backend. */
 (function () {
   'use strict';
@@ -156,7 +156,7 @@
       var delay = 2500 + Math.floor(Math.random() * 1500);
       runSpinner(
         'Working on updates to your site…',
-        'Updating the draft for ALPs Electric. Hang tight.',
+        'Updating the draft for Alps Electric. Hang tight.',
         delay,
         function () {
           var editId = applyNextEdit();

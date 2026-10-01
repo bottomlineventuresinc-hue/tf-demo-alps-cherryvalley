@@ -1,4 +1,4 @@
-# Site customization checklist · ALPs Electric (hs-066-alps)
+# Site customization checklist · Alps Electric (hs-066-alps)
 Wave 14 · Copperline · offer v2 pricing bar (CR 2026-09-30).
 
 Before preview send:

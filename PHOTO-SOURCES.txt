@@ -1,4 +1,4 @@
-PHOTO SOURCES · hs-066-alps ALPs Electric (Wave 14 2026-09-30 PT)
+PHOTO SOURCES · hs-066-alps Alps Electric (Wave 14 2026-09-30 PT)
 All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
 New Wave 14 files: see builds/_assets_dl/wave14/SOURCES.tsv and its sources log for source URLs and terms.
 Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
